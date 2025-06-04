@@ -7,6 +7,8 @@ This repository contains an end-to-end real-time Azure Data Engineering project 
 
 > **Scenario**: You're tasked with building a production-grade data engineering pipeline for a company like Netflix to handle streaming user interactions such as plays, pauses, searches, and recommendations.
 
+![NetflixStructure.PNG](Medallion-Architecture%2FNetflixStructure.PNG)
+
 ## 🎯 Project Objectives
 
 - Build a real-time ingestion and transformation pipeline for Netflix-style data.
