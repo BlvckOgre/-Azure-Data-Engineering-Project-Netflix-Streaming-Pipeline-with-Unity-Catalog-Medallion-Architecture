@@ -7,7 +7,7 @@ This repository contains an end-to-end real-time Azure Data Engineering project 
 
 > **Scenario**: You're tasked with building a production-grade data engineering pipeline for a company like Netflix to handle streaming user interactions such as plays, pauses, searches, and recommendations.
 
-![Medallion Architecture](Medallion%20Architecture/NetflixStructure.PNG)
+
 
 ## 🎯 Project Objectives
 
@@ -32,6 +32,7 @@ This repository contains an end-to-end real-time Azure Data Engineering project 
 | **Silver** | Cleaned, parsed, and validated logs, e.g., valid timestamps, structured fields. |
 | **Gold** | Business-ready metrics: user behavior summaries, engagement scores, regional trends. |
 
+![Medallion Architecture](Medallion%20Architecture/NetflixStructure.PNG)
 ### 🔐 Unity Catalog
 
 - Manages access policies, lineage, data ownership, and schema consistency across layers.
